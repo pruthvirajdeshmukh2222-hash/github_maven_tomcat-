@@ -1,8 +1,11 @@
 I love nature.
 In a nature , we enjoy a lot's of things.
 I love Mahabaleshwar. 
+<<<<<<< HEAD
 I live in Paris with my family .
 I travel the world and frequently stay in Switzerland
+I love Goa and Kokan .
+
 
 fetch command
 
