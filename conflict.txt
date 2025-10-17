@@ -1,0 +1,10 @@
+============
+first line
+============
+git conflict resolve demo
+ 
+============
+second line
+============
+correction practice
+
